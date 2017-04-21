@@ -1,0 +1,10 @@
+name=tomasdemo 
+host=test 
+name2=helo 
+name3=helo2 
+env=staging 
+pass=123 
+foo=bar 
+hello=you 
+foo2=bar2 
+foo3=bar3 

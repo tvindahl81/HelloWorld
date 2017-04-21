@@ -1,0 +1,7 @@
+[
+  {
+    "OptionName": "EnvironmentVariables",
+    "Namespace": "aws:cloudformation:template:parameter",
+    "Value": "name=tomasdemo,pass=123,host=test,env=staging"
+  }
+]
